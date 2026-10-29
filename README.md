@@ -36,4 +36,4 @@ gcc hospital.c -o hospital
 ```
 
 ## Author
-Your Name - Advanced C Programming Project
+Anunay Dubey - Advanced C Programming Project
